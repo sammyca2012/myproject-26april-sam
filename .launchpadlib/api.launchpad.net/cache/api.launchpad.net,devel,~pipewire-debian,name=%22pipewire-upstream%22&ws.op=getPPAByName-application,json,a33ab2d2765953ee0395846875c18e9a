@@ -1,0 +1,22 @@
+status: 200
+date: Tue, 11 Jun 2024 06:15:11 GMT
+server: gunicorn
+x-powered-by: Zope (www.zope.org), Python (www.python.org)
+content-security-policy: frame-ancestors 'self';
+content-type: application/json
+strict-transport-security: max-age=15552000
+vary: Accept,Accept-Encoding
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-launchpad-revision: 7020100bd22578495a0a6fd39859337d4641b57b
+x-lazr-notifications: []
+x-xss-protection: 1; mode=block
+x-vcs-revision: 7020100bd22578495a0a6fd39859337d4641b57b
+x-request-id: 1d97003f-d943-40bb-8d67-ca47b30f99e2
+content-length: 2930
+-content-encoding: gzip
+content-location: https://api.launchpad.net/devel/~pipewire-debian?name=%22pipewire-upstream%22&ws.op=getPPAByName
+-varied-accept: application/json
+-varied-accept-encoding: gzip, deflate
+
+{"self_link": "https://api.launchpad.net/devel/~pipewire-debian/+archive/ubuntu/pipewire-upstream", "web_link": "https://launchpad.net/~pipewire-debian/+archive/ubuntu/pipewire-upstream", "resource_type_link": "https://api.launchpad.net/devel/#archive", "owner_link": "https://api.launchpad.net/devel/~pipewire-debian", "name": "pipewire-upstream", "displayname": "PipeWire Upstream", "reference": "~pipewire-debian/ubuntu/pipewire-upstream", "distribution_link": "https://api.launchpad.net/devel/ubuntu", "private": false, "suppress_subscription_notifications": false, "dependencies_collection_link": "https://api.launchpad.net/devel/~pipewire-debian/+archive/ubuntu/pipewire-upstream/dependencies", "description": "\u200b\u200b\u200b\u200b\u200b    \u200b   \u200b\n\u200b  \u200b\u200b\u200b\u200b\u200b   \u200b\u200b\u200b\u200b    \u200b\u200b\u200b\u200b \u200b\u200b\u200b\u200b\nPipeWire 1.0.6 released. ===\u003e\u003e\u003e (See Installation Instructions below)\nblueman : blueman-git 2.4.1 added\n\u200b\nInstallation Instructions :- https://pipewire-debian.github.io\n\u200b\u200b\u200b\u200b\u200b\n\u200b\u200b\u200b\u200b\u200b\nOriginal Project Repo     :- https://gitlab.freedesktop.org/pipewire/pipewire,\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0https://github.com/blueman-project/blueman/\nPackaging Repo            :- https://github.com/pipewire-debian/pipewire-debian\n\nArch user here, but love PipeWire. I will be packaging for Upstream version of blueman-git \u0026 PipeWire (15days release cycle). The debian/ Code and all patches, Credit goes to Original Maintainers (usually from Debian): Utopia Maintenance Team Jeremy Bicha, Repo- https://salsa.debian.org/utopia-team/pipewire/ and Christopher Schramm repo- https://salsa.debian.org/cschramm/blueman. I will be doing this because of to keep sync with upstream to provide latest PipeWire and blueman whenever there is a version will be released on upstream.\n\n\u200b     \u200b\u200b\u200b   \u200b\u200b\u200b", "signing_key_fingerprint": "FC43B7352BCC0EC8AF2EEB8B25088A0359807596", "require_virtualized": true, "build_debug_symbols": true, "publish_debug_symbols": true, "permit_obsolete_series_uploads": false, "authorized_size": 8192, "status": "Active", "external_dependencies": null, "metadata_overrides": null, "processors_collection_link": "https://api.launchpad.net/devel/~pipewire-debian/+archive/ubuntu/pipewire-upstream/processors", "enabled_restricted_processors_collection_link": "https://api.launchpad.net/devel/~pipewire-debian/+archive/ubuntu/pipewire-upstream/enabled_restricted_processors", "publishing_method": "Local", "repository_format": "Debian", "publish": true, "relative_build_score": 0, "http_etag": "\"38cf288e754b3c9866d2eea7f42df1395cbf89f5-ef61dda6b5cd38f3e93a711b6170d167a7737ed3\""}
