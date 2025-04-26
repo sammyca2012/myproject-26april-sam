@@ -14,6 +14,8 @@
 ~MSle0~/xpack
 
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1745675272,,"wq!"
 :wq
 |2,0,1742017643,,"wq"
 :q!
@@ -119,18 +121,18 @@
 |<"sudo apt install git pkg-config autotools-dev libtool make gcc","sudo add-apt-repository ppa:pipewire-debian/pipewire-upstream","sudo apt update","sudo apt install libpipewire-0.3-dev","pipewire --version","sudo apt install libspa-0.2-dev","cd ~/Downloads","sudo git clone https://github.com/neutrinolabs/pipewire-module-xrdp.git --recursive"
 
 # File marks:
-'0  12  50  /home/labuser/pythonset.sh
-|4,48,12,50,1742017643,"/home/labuser/pythonset.sh"
-'1  8  90  /home/labuser/pythonset.sh
-|4,49,8,90,1742017567,"/home/labuser/pythonset.sh"
+'0  8  0  ~/SamFiles/index1.html
+|4,48,8,0,1745675272,"~/SamFiles/index1.html"
+'1  12  50  /home/labuser/pythonset.sh
+|4,49,12,50,1742017643,"/home/labuser/pythonset.sh"
 '2  8  90  /home/labuser/pythonset.sh
 |4,50,8,90,1742017567,"/home/labuser/pythonset.sh"
-'3  8  20  /home/labuser/pythonset.sh
-|4,51,8,20,1742017416,"/home/labuser/pythonset.sh"
+'3  8  90  /home/labuser/pythonset.sh
+|4,51,8,90,1742017567,"/home/labuser/pythonset.sh"
 '4  8  20  /home/labuser/pythonset.sh
 |4,52,8,20,1742017416,"/home/labuser/pythonset.sh"
-'5  39  0  /home/labuser/pythonset.sh
-|4,53,39,0,1742017211,"/home/labuser/pythonset.sh"
+'5  8  20  /home/labuser/pythonset.sh
+|4,53,8,20,1742017416,"/home/labuser/pythonset.sh"
 '6  39  0  /home/labuser/pythonset.sh
 |4,54,39,0,1742017211,"/home/labuser/pythonset.sh"
 '7  39  0  /home/labuser/pythonset.sh
@@ -141,12 +143,24 @@
 |4,57,39,0,1742017211,"/home/labuser/pythonset.sh"
 
 # Jumplist (newest first):
+-'  8  0  ~/SamFiles/index1.html
+|4,39,8,0,1745675272,"~/SamFiles/index1.html"
+-'  1  0  ~/SamFiles/index1.html
+|4,39,1,0,1745675249,"~/SamFiles/index1.html"
+-'  12  50  /home/labuser/pythonset.sh
+|4,39,12,50,1742017643,"/home/labuser/pythonset.sh"
 -'  12  50  /home/labuser/pythonset.sh
 |4,39,12,50,1742017643,"/home/labuser/pythonset.sh"
 -'  8  90  /home/labuser/pythonset.sh
 |4,39,8,90,1742017622,"/home/labuser/pythonset.sh"
 -'  8  90  /home/labuser/pythonset.sh
+|4,39,8,90,1742017622,"/home/labuser/pythonset.sh"
+-'  8  90  /home/labuser/pythonset.sh
 |4,39,8,90,1742017567,"/home/labuser/pythonset.sh"
+-'  8  90  /home/labuser/pythonset.sh
+|4,39,8,90,1742017567,"/home/labuser/pythonset.sh"
+-'  8  20  /home/labuser/pythonset.sh
+|4,39,8,20,1742017416,"/home/labuser/pythonset.sh"
 -'  8  20  /home/labuser/pythonset.sh
 |4,39,8,20,1742017416,"/home/labuser/pythonset.sh"
 -'  39  0  /home/labuser/pythonset.sh
@@ -155,6 +169,14 @@
 |4,39,39,0,1742017392,"/home/labuser/pythonset.sh"
 -'  39  0  /home/labuser/pythonset.sh
 |4,39,39,0,1742017392,"/home/labuser/pythonset.sh"
+-'  39  0  /home/labuser/pythonset.sh
+|4,39,39,0,1742017392,"/home/labuser/pythonset.sh"
+-'  39  0  /home/labuser/pythonset.sh
+|4,39,39,0,1742017392,"/home/labuser/pythonset.sh"
+-'  39  0  /home/labuser/pythonset.sh
+|4,39,39,0,1742017392,"/home/labuser/pythonset.sh"
+-'  39  0  /home/labuser/pythonset.sh
+|4,39,39,0,1742017211,"/home/labuser/pythonset.sh"
 -'  39  0  /home/labuser/pythonset.sh
 |4,39,39,0,1742017211,"/home/labuser/pythonset.sh"
 -'  43  0  /home/labuser/pythonset.sh
@@ -165,6 +187,22 @@
 |4,39,43,0,1742017193,"/home/labuser/pythonset.sh"
 -'  43  0  /home/labuser/pythonset.sh
 |4,39,43,0,1742017193,"/home/labuser/pythonset.sh"
+-'  43  0  /home/labuser/pythonset.sh
+|4,39,43,0,1742017193,"/home/labuser/pythonset.sh"
+-'  43  0  /home/labuser/pythonset.sh
+|4,39,43,0,1742017193,"/home/labuser/pythonset.sh"
+-'  43  0  /home/labuser/pythonset.sh
+|4,39,43,0,1742017193,"/home/labuser/pythonset.sh"
+-'  43  0  /home/labuser/pythonset.sh
+|4,39,43,0,1742017193,"/home/labuser/pythonset.sh"
+-'  47  0  /home/labuser/pythonset.sh
+|4,39,47,0,1742017041,"/home/labuser/pythonset.sh"
+-'  47  0  /home/labuser/pythonset.sh
+|4,39,47,0,1742017041,"/home/labuser/pythonset.sh"
+-'  47  0  /home/labuser/pythonset.sh
+|4,39,47,0,1742017041,"/home/labuser/pythonset.sh"
+-'  47  0  /home/labuser/pythonset.sh
+|4,39,47,0,1742017041,"/home/labuser/pythonset.sh"
 -'  47  0  /home/labuser/pythonset.sh
 |4,39,47,0,1742017041,"/home/labuser/pythonset.sh"
 -'  47  0  /home/labuser/pythonset.sh
@@ -183,6 +221,16 @@
 |4,39,1,0,1742016998,"/home/labuser/pythonset.sh"
 -'  1  0  /home/labuser/pythonset.sh
 |4,39,1,0,1742016998,"/home/labuser/pythonset.sh"
+-'  1  0  /home/labuser/pythonset.sh
+|4,39,1,0,1742016998,"/home/labuser/pythonset.sh"
+-'  1  0  /home/labuser/pythonset.sh
+|4,39,1,0,1742016998,"/home/labuser/pythonset.sh"
+-'  1  0  /home/labuser/pythonset.sh
+|4,39,1,0,1742016998,"/home/labuser/pythonset.sh"
+-'  1  0  /home/labuser/pythonset.sh
+|4,39,1,0,1742016998,"/home/labuser/pythonset.sh"
+-'  1  0  /home/labuser/pythonset.sh
+|4,39,1,0,1742016998,"/home/labuser/pythonset.sh"
 -'  91  0  /etc/nginx/sites-available/default
 |4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
 -'  91  0  /etc/nginx/sites-available/default
@@ -247,102 +295,63 @@
 |4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
 -'  91  0  /etc/nginx/sites-available/default
 |4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  1  0  /etc/nginx/sites-available/default
-|4,39,1,0,1724664955,"/etc/nginx/sites-available/default"
--'  83  27  /etc/elasticsearch/elasticsearch.yml
-|4,39,83,27,1724664825,"/etc/elasticsearch/elasticsearch.yml"
--'  83  27  /etc/elasticsearch/elasticsearch.yml
-|4,39,83,27,1724664825,"/etc/elasticsearch/elasticsearch.yml"
--'  83  27  /etc/elasticsearch/elasticsearch.yml
-|4,39,83,27,1724664825,"/etc/elasticsearch/elasticsearch.yml"
--'  83  27  /etc/elasticsearch/elasticsearch.yml
-|4,39,83,27,1724664825,"/etc/elasticsearch/elasticsearch.yml"
--'  83  27  /etc/elasticsearch/elasticsearch.yml
-|4,39,83,27,1724664825,"/etc/elasticsearch/elasticsearch.yml"
--'  83  27  /etc/elasticsearch/elasticsearch.yml
-|4,39,83,27,1724664825,"/etc/elasticsearch/elasticsearch.yml"
--'  83  27  /etc/elasticsearch/elasticsearch.yml
-|4,39,83,27,1724664825,"/etc/elasticsearch/elasticsearch.yml"
--'  83  27  /etc/elasticsearch/elasticsearch.yml
-|4,39,83,27,1724664825,"/etc/elasticsearch/elasticsearch.yml"
--'  83  27  /etc/elasticsearch/elasticsearch.yml
-|4,39,83,27,1724664825,"/etc/elasticsearch/elasticsearch.yml"
--'  83  27  /etc/elasticsearch/elasticsearch.yml
-|4,39,83,27,1724664825,"/etc/elasticsearch/elasticsearch.yml"
--'  83  27  /etc/elasticsearch/elasticsearch.yml
-|4,39,83,27,1724664825,"/etc/elasticsearch/elasticsearch.yml"
--'  83  27  /etc/elasticsearch/elasticsearch.yml
-|4,39,83,27,1724664825,"/etc/elasticsearch/elasticsearch.yml"
--'  83  27  /etc/elasticsearch/elasticsearch.yml
-|4,39,83,27,1724664825,"/etc/elasticsearch/elasticsearch.yml"
--'  83  27  /etc/elasticsearch/elasticsearch.yml
-|4,39,83,27,1724664825,"/etc/elasticsearch/elasticsearch.yml"
--'  83  27  /etc/elasticsearch/elasticsearch.yml
-|4,39,83,27,1724664825,"/etc/elasticsearch/elasticsearch.yml"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
+-'  91  0  /etc/nginx/sites-available/default
+|4,39,91,0,1724664972,"/etc/nginx/sites-available/default"
 
 # History of marks within files (newest to oldest):
+
+> ~/SamFiles/index1.html
+	*	1745675270	0
+	"	8	0
+	^	8	0
+	.	7	80
+	+	7	80
 
 > /home/labuser/pythonset.sh
 	*	1742017642	0
